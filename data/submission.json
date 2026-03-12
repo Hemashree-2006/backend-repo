@@ -1,0 +1,92 @@
+[
+  {
+    "patient": "P1",
+    "severity": "1",
+    "start": 0,
+    "end": 6
+  },
+  {
+    "patient": "P2",
+    "severity": "1",
+    "start": 2,
+    "end": 10
+  },
+  {
+    "patient": "P3",
+    "severity": "5",
+    "start": 2,
+    "end": 10
+  },
+  {
+    "patient": "P4",
+    "severity": "1",
+    "start": 2,
+    "end": 7
+  },
+  {
+    "patient": "P5",
+    "severity": "2",
+    "start": 4,
+    "end": 7
+  },
+  {
+    "patient": "P6",
+    "severity": "3",
+    "start": 4,
+    "end": 9
+  },
+  {
+    "patient": "P7",
+    "severity": "3",
+    "start": 11,
+    "end": 16
+  },
+  {
+    "patient": "P8",
+    "severity": "3",
+    "start": 14,
+    "end": 21
+  },
+  {
+    "patient": "P9",
+    "severity": "2",
+    "start": 10,
+    "end": 16
+  },
+  {
+    "patient": "P10",
+    "severity": "4",
+    "start": 17,
+    "end": 20
+  },
+  {
+    "patient": "P11",
+    "severity": "1",
+    "start": 17,
+    "end": 23
+  },
+  {
+    "patient": "P12",
+    "severity": "5",
+    "start": 7,
+    "end": 9
+  },
+  {
+    "patient": "P13",
+    "severity": "2",
+    "start": 15,
+    "end": 18
+  },
+  {
+    "patient": "P14",
+    "severity": "2",
+    "start": 8,
+    "end": 18
+  },
+  {
+    "patient": "P15",
+    "severity": "2",
+    "start": 9,
+    "end": 17
+  }
+]
